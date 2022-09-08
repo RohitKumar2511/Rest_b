@@ -1,0 +1,14 @@
+
+ 	WELCOME TO OURS RESTAURENT	 
+
+Bill no: 67682
+Customer Name : Rohit
+Phone no : 453
+======================================
+ Products 		QTY 		Price
+======================================
+ Daal		4		116
+--------------------------------------
+ Grocery Tax			Rs. 5.8
+ Total Bill : 			Rs. 121.8
+--------------------------------------

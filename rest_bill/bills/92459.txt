@@ -1,0 +1,33 @@
+
+ 	WELCOME TO OURS RESTAURENT	 
+
+Bill no: 92459
+Customer Name : d
+Phone no : ear
+======================================
+ Products 		QTY 		Price
+======================================
+ Chaat		11		429
+ Chana Masala		9		1341
+ Litti Chokha		1		29
+ Masala Chicken		1		129
+ French Fries 		1		65
+Samosa		1		49
+ Biryani		1		59
+ Tangri Kabab		1		79
+ Chhole Bhatore		1		29
+ Daal Chawal		1		29
+ Pav Bhaji 		1		65
+ Dal Puri		1		49
+ Apple Juice		1		25
+ Barfi		1		79
+ Cold Drink		1		29
+ Grape Juice		1		29
+ Ice Cream 		1		65
+ Ice Tea		1		49
+--------------------------------------
+ Starter Tax			Rs. 102.1
+Main-Course Tax			Rs. 15.5
+ Drinks & Deserts Tax			Rs. 13.8
+ Total Bill : 			Rs. 2759.4
+--------------------------------------

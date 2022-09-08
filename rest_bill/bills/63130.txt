@@ -1,0 +1,14 @@
+
+ 	WELCOME TO OURS RESTAURENT	 
+
+Bill no: 63130
+Customer Name : r
+Phone no : 5
+======================================
+ Products 		QTY 		Price
+======================================
+ Bath Soap		25		975
+--------------------------------------
+ Cosmetic Tax			Rs. 48.75
+ Total Bill : 			Rs. 1023.75
+--------------------------------------

@@ -1,0 +1,14 @@
+
+ 	WELCOME TO OURS RESTAURENT	 
+
+Bill no: 27398
+Customer Name : afjsvoissfvnsvvv
+Phone no : 325
+======================================
+ Products 		QTY 		Price
+======================================
+ Rice		2		80
+--------------------------------------
+ Grocery Tax			Rs. 4.0
+ Total Bill : 			Rs. 84.0
+--------------------------------------

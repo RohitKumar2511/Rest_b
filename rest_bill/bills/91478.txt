@@ -1,0 +1,23 @@
+
+ 	WELCOME TO OURS RESTAURENT	 
+
+Bill no: 91478
+Customer Name : Kajal Sharma
+Phone no : 26461313138
+======================================
+ Products 		QTY 		Price
+======================================
+ Bath Soap		1		40
+ Face Wash		3		180
+ Body Loshan		6		1080
+ Rice		39		1560
+ Food Oil		6		720
+ Wheat		6		1080
+ Thumbs Up		2		90
+ Sprite		63		3780
+--------------------------------------
+ Cosmetic Tax			Rs. 65.0
+ Grocery Tax			Rs. 168.0
+ Cold Drinks Tax			Rs. 193.5
+ Total Bill : 			Rs. 8956.5
+--------------------------------------

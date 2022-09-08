@@ -1,0 +1,20 @@
+
+ 	WELCOME TO OURS RESTAURENT	 
+
+Bill no: 39083
+Customer Name : Sujeer
+Phone no : 6333463
+======================================
+ Products 		QTY 		Price
+======================================
+ Face Cream		23		2760
+ Food Oil		1		120
+ Wheat		2		360
+ Frooti		52		2600
+ Sprite		3		180
+--------------------------------------
+ Cosmetic Tax			Rs. 138.0
+ Grocery Tax			Rs. 24.0
+ Cold Drinks Tax			Rs. 139.0
+ Total Bill : 			Rs. 6321.0
+--------------------------------------
